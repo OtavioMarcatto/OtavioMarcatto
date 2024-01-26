@@ -13,7 +13,7 @@
   
 ##
 
--  ⚡ **Minha trajetória profissional começou na programação de máquinas industriais, proporcionando-me uma sólida compreensão tanto em hardware quanto em software. Atualmente, concentro-me no desenvolvimento de aplicações para o backend, combinando meu conhecimento diversificado para criar soluções eficientes. Estou entusiasmado para continuar crescendo e enfrentar novos desafios na área de programação.**
+-  ⚡ **My professional career began with programming industrial machines, providing me with a solid understanding of both hardware and software. Currently, I focus on developing applications for the backend, combining my diverse knowledge to create efficient solutions. I'm excited to continue growing and face new challenges in the programming area.**
 
 
 
